@@ -1,6 +1,0 @@
-1. ./stripe login
-2. ./stripe listen --forward-to localhost:3000/api/webhook
-
-prisma
-
-1.npx prisma studio
