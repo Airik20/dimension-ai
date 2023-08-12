@@ -44,7 +44,7 @@ export async function GET() {
                             name: "DimensionAI Pro",
                             description: "Unlimited AI Generations."
                         },
-                        unit_amount: 2000,
+                        unit_amount: 1000,
                         recurring: {
                             interval: "month"
                         }
